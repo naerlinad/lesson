@@ -26,6 +26,12 @@ My cat is not shaved, it's a _**sphynx** cat_
 
 ## Work with images
 
+To add images, write exlamation mark and after it brackets with a messege you want inbetween, and then path or URL to the image file in parenthesis, example
+
+    ![i wannna live there!](desktop/lesson_2/clocktowers.png)
+
+![i wanna live there!](clocktowers.png)
+
 ## Links
 
 ## Work with tables
