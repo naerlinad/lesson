@@ -24,6 +24,8 @@ My cat is not shaved, it's a _**sphynx** cat_
 
 ## Lists
 
+To mark an unordered list use asterisk (*)
+
 ## Work with images
 
 To add images, write exlamation mark and after it brackets with a messege you want inbetween, and then path or URL to the image file in parenthesis, example
