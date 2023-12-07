@@ -24,7 +24,27 @@ My cat is not shaved, it's a _**sphynx** cat_
 
 ## Lists
 
-To mark an unordered list use asterisk (*)
+To make unordered lists put an asterisk (*) or plus (+) before a word or a sentence like this
+
+    * First item
+    * Second item
+    + Third item
+
+and you will have it like this
+
+* First item
+* Second item
++ Third item
+
+To make ordered lists just put a number and a point after it and then go on with an item, example
+
+    1. Item
+    2. Item
+
+and you will get this
+
+1. Item
+2. Item
 
 ## Work with images
 
