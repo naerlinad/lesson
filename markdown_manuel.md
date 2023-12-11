@@ -63,3 +63,5 @@ And your image will appear just like this one:
 ## Quotes
 
 ## Endspiel
+
+Thanks for reading!
