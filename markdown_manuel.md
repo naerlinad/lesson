@@ -58,6 +58,14 @@ And your image will appear just like this one:
 
 ## Links
 
+To create a link in your document, put the link text between brackets [ ] and then right after it put URL in parenthesis ( ), here's the example:
+
+    The [Wikipedia](https://wikipedia.org/) is the most used resource to get an overview on something
+
+And here's the output you'll get:
+
+The [Wikipedia](https://wikipedia.org/) is the most used resource to get an overview on something
+
 ## Work with tables
 
 ## Quotes
