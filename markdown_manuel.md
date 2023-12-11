@@ -56,7 +56,21 @@ To add images, write exlamation mark and after it brackets with a messege you wa
 
 ## Links
 
-## Work with tables
+## Tables
+
+To create tables, use 3 or more hyphens ( --- ) to create a header of a column and use pipes ( | ) to separate each column. Example:
+
+    | Item | Price (per 1 kg) | Quantity | Sum |
+    | ---- | ---------------- | -------- | --- |
+    | Lemons | 100 RUB | 3 kg 250 g | 100,25 RUB |
+    | Cheries | 250,00 RUB | 1 kg 500 g | 375,00 RUB |
+
+The output will be like this:
+
+| Item | Price (per 1 kg) | Quantity | Sum |
+| ---- | ---------------- | -------- | --- |
+| Lemons | 100,00 RUB | 3 kg 250 g | 100,25 RUB |
+| Cheries | 250,00 RUB | 1 kg 500 g | 375,00 RUB |
 
 ## Quotes
 
