@@ -61,3 +61,5 @@ To add images, write exlamation mark and after it brackets with a messege you wa
 ## Quotes
 
 ## Endspiel
+
+Hey! You made it! You've just read this little manuel til the end. Now you know all basics needed to create your own markdown document. Congrats!
