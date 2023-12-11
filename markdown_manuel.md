@@ -1,56 +1,58 @@
 # How to work with Markdown
 
-## Text marking
+## Text formating
 
-To make your text in italics you suround it by asterisks or underscores like this
+To make your text in italics, suround it by asterisks ( * ) or underscores ( _ ), like this:
 
     *italics* or _italics_
 
-and you will have it in *italics*.
+And you will have it in *italics*.
 
-To make your text bold put 2 asterisks or 2 underscores to both sides of it like this
+To make your text bold put 2 asterisks or 2 underscores to both sides of it, like this:
 
     **bold** or __bold__
 
-so you will get this **bold**
+So it becomes **bold**.
 
-These 2 syntax alternatives we need to be able to make some part of a emphasised text only in italics and another both bold and in italics, example
+These 2 syntax alternatives we need to be able to make some part of an emphasised text only in italics and another part both bold and in italics. Example:
 
-    My cat is not shaved, it's a _**sphynx** cat_
+    My cat is not shaved, it's the _**sphynx** cat!_
 
-so you have
+You'll have this:
 
-My cat is not shaved, it's a _**sphynx** cat_
+My cat is not shaved, it's the _**sphynx** cat!_
 
 ## Lists
 
-To make unordered lists put an asterisk (*) or plus (+) before a word or a sentence like this
+To make unordered lists put an asterisk ( * ) or plus ( + ) before a word or a sentence, like this:
 
     * First item
     * Second item
     + Third item
 
-and you will have it like this
+You will have it like this:
 
 * First item
 * Second item
 + Third item
 
-To make ordered lists just put a number and a point after it and then go on with an item, example
+To make ordered lists just put a number and a point after it and then go on with a name of an item. Example:
 
-    1. Item
-    2. Item
+    1. Lemons
+    2. Roses
 
-and you will get this
+You will get this:
 
-1. Item
-2. Item
+1. Lemons
+2. Roses
 
-## Work with images
+## Images
 
-To add images, write exlamation mark and after it brackets with a messege you want inbetween, and then path or URL to the image file in parenthesis, example
+To add images, put an exlamation mark and after it brackets with a messege you want inbetween, and then write the path or URL to the image file in parenthesis. Example:
 
     ![i wannna live there!](desktop/lesson_2/clocktowers.png)
+
+And your image will appear just like this one:
 
 ![i wanna live there!](clocktowers.png)
 
