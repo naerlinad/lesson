@@ -68,6 +68,20 @@ The [Wikipedia](https://wikipedia.org/) is the most used resource to get an over
 
 ## Tables
 
+To create tables, use 3 or more hyphens ( --- ) to create a header of a column and use pipes ( | ) to separate each column. Example:
+
+    | Item | Price (per 1 kg) | Quantity | Sum |
+    | ---- | ---------------- | -------- | --- |
+    | Lemons | 100 RUB | 3 kg 250 g | 100,25 RUB |
+    | Cheries | 250,00 RUB | 1 kg 500 g | 375,00 RUB |
+
+The output will be like this:
+
+| Item | Price (per 1 kg) | Quantity | Sum |
+| ---- | ---------------- | -------- | --- |
+| Lemons | 100,00 RUB | 3 kg 250 g | 100,25 RUB |
+| Cheries | 250,00 RUB | 1 kg 500 g | 375,00 RUB |
+
 ## Quotes
 
 To make blockquotes, put > in front of a paragraph, like this:
