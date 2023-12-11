@@ -66,9 +66,45 @@ And here's the output you'll get:
 
 The [Wikipedia](https://wikipedia.org/) is the most used resource to get an overview on something
 
-## Work with tables
+## Tables
 
 ## Quotes
+
+To make blockquotes, put > in front of a paragraph, like this:
+
+    > This is a quote
+
+It will look like this:
+
+> This is a quote
+
+Blockquotes can contain many paragraphs, just put > on blank lines between them:
+
+    > This is quote
+    >
+    > This is second paragraph
+
+Output:
+
+> This is quote
+>
+> This is second paragraph
+
+Also quotes can be nested, to make so put >> in front of a paragraph you want to nest:
+
+    > This is quote
+    >
+    > This is second paragraph
+    >
+    >> And this is a nested quote
+
+Output:
+
+> This is quote
+>
+> This is second paragraph
+>
+>> And this is a nested quote
 
 ## Endspiel
 
