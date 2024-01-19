@@ -64,7 +64,7 @@ To create a link in your document, put the link text between brackets [ ] and th
 
 And here's the output you'll get:
 
-The [Wikipedia](https://wikipedia.org/) is the most used resource to get an overview on something
+The [Wikipedia](https://wikipedia.org/) is the most used resource to get an overview on something (do not trust it ever!)
 
 ## Tables
 
